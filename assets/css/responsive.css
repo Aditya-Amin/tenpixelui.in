@@ -1,0 +1,115 @@
+@media screen and (max-width:414px){
+    #top-header {
+        margin-top: 0;
+        padding: 0;
+    }
+
+    .ratings, .reviews {
+        display: none;
+    }
+
+    .icons {
+        margin-left: 0;
+        flex-direction: column;
+        text-align: center;
+        border-right: 1px solid #fff;
+        padding: 20px 0;
+    }
+
+    #middle-header {
+        display: none;
+    }
+
+    #main-menu {
+        display: none;
+    }
+
+    .logo {
+        padding: 10px 15px;
+        width: 135px;
+    }
+
+    #hamburger i {
+        font-size: 40px;
+    }
+
+    #hamburger {
+        display: block;
+    }
+
+    .rating-contents {
+        background: #f0f0f0;
+        padding: 10px 15px;
+        border-radius: 5px;
+    }
+
+    .banner-area  .flex-wrapper {
+        flex-wrap: wrap;
+    }
+
+    .banner-area {
+        padding-top: 37px;
+        height: 970px;
+    }
+
+    h1.banner-title {
+        font-size: 37px;
+    }
+
+    p.banner-short-text {
+        display: none;
+    }
+
+    ul.banner-lists {
+        display: none;
+    }
+
+    .banner-ratings {
+        display: none;
+    }
+
+    .banner-left {
+        flex-basis: 100%;
+        margin-bottom: 17px;
+    }
+
+    .banner-right {
+        flex-basis: 100%;
+        padding: 20px;
+        width: 90%;
+    }
+
+    .form-img {
+        display: none;
+    }
+
+    .banner-form {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .form-row.big-row {
+        flex-wrap: wrap;
+    }
+
+    .input {
+        width: 120px;
+    }
+
+    .hours {
+        width: 130px;
+    }
+
+    .post-code {
+        width: 140px;
+    }
+
+    .info {
+        margin-top: 20px;
+    }
+
+    .header-area .rating-contents {
+        display: block;
+    }
+
+}
