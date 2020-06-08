@@ -4,6 +4,12 @@
         padding: 0;
     }
 
+
+    .container {
+        width: 95%;
+    }
+
+
     .ratings, .reviews {
         display: none;
     }
@@ -93,7 +99,7 @@
     }
 
     .input {
-        width: 120px;
+        width: 100px;
     }
 
     .hours {

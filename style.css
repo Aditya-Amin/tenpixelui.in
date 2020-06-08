@@ -343,7 +343,7 @@ a{
 
 /* ============ banner styles =========== */
 .banner-area {
-    background-image: url(/assets/img/bg/banner.jpg);
+    background-image: url(img/bg/banner.jpg);
     height: 795px;
     background-size: cover;
     background-repeat: no-repeat;
